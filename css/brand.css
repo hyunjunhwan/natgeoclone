@@ -127,7 +127,7 @@ input[id="menuicon"]:checked ~ .header .sidebar {
     font-size: 0;
   }
   .header .nav .navi li:nth-of-type(1) {
-    margin: 0 10% 0 0;
+    margin: 0 40% 0 0;
     border: none;
   }
   .header .nav .navi li {
